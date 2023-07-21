@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/0e24b5a4864f4d90809af1f1f68a8b99/artifacts
+end_time: 1689937737645
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 0e24b5a4864f4d90809af1f1f68a8b99
+run_name: mysterious-shad-424
+run_uuid: 0e24b5a4864f4d90809af1f1f68a8b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689937668421
+status: 3
+tags: []
+user_id: moses

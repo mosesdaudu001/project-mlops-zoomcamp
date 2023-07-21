@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/816cdb6404bf4bc6a36f4853c549ef90/artifacts
+end_time: 1689939283126
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 816cdb6404bf4bc6a36f4853c549ef90
+run_name: orderly-snail-463
+run_uuid: 816cdb6404bf4bc6a36f4853c549ef90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689939069872
+status: 3
+tags: []
+user_id: moses

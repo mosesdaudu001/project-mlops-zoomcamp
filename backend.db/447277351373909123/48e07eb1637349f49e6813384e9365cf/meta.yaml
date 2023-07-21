@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/48e07eb1637349f49e6813384e9365cf/artifacts
+end_time: 1689946344456
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 48e07eb1637349f49e6813384e9365cf
+run_name: funny-lamb-223
+run_uuid: 48e07eb1637349f49e6813384e9365cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689945547236
+status: 4
+tags: []
+user_id: moses

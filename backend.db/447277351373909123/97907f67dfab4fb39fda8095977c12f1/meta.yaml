@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/97907f67dfab4fb39fda8095977c12f1/artifacts
+end_time: 1689937668409
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 97907f67dfab4fb39fda8095977c12f1
+run_name: chill-wolf-326
+run_uuid: 97907f67dfab4fb39fda8095977c12f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689937473781
+status: 3
+tags: []
+user_id: moses

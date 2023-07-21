@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/5877e72fe688450b8487c40efda64a3e/artifacts
+end_time: 1689937983564
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 5877e72fe688450b8487c40efda64a3e
+run_name: wise-grub-798
+run_uuid: 5877e72fe688450b8487c40efda64a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689937737653
+status: 3
+tags: []
+user_id: moses

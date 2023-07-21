@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/585f276d8aa14180885c598427937f3a/artifacts
+end_time: 1689939069851
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 585f276d8aa14180885c598427937f3a
+run_name: worried-hog-830
+run_uuid: 585f276d8aa14180885c598427937f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689938751620
+status: 3
+tags: []
+user_id: moses

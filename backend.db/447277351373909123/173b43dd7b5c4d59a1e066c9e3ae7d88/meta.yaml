@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/173b43dd7b5c4d59a1e066c9e3ae7d88/artifacts
+end_time: 1689940342074
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 173b43dd7b5c4d59a1e066c9e3ae7d88
+run_name: abrasive-jay-394
+run_uuid: 173b43dd7b5c4d59a1e066c9e3ae7d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689939803306
+status: 3
+tags: []
+user_id: moses

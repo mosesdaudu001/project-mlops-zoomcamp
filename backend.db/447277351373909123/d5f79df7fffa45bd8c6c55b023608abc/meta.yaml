@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/d5f79df7fffa45bd8c6c55b023608abc/artifacts
+end_time: 1689944587094
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: d5f79df7fffa45bd8c6c55b023608abc
+run_name: defiant-mouse-146
+run_uuid: d5f79df7fffa45bd8c6c55b023608abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689944172196
+status: 3
+tags: []
+user_id: moses

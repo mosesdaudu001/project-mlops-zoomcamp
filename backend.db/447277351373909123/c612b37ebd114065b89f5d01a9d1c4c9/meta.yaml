@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/c612b37ebd114065b89f5d01a9d1c4c9/artifacts
+end_time: 1689943376521
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: c612b37ebd114065b89f5d01a9d1c4c9
+run_name: valuable-moose-554
+run_uuid: c612b37ebd114065b89f5d01a9d1c4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689943340526
+status: 3
+tags: []
+user_id: moses

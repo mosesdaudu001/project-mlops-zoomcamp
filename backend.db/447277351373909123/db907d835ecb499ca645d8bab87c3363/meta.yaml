@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/db907d835ecb499ca645d8bab87c3363/artifacts
+end_time: 1689942430149
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: db907d835ecb499ca645d8bab87c3363
+run_name: peaceful-frog-405
+run_uuid: db907d835ecb499ca645d8bab87c3363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689942034157
+status: 3
+tags: []
+user_id: moses

@@ -45,4 +45,4 @@ The Following data dictionary gives more details on this data set:
 Mlflow - Experiment Training & Tracking
 ```
 ![Architecture](./images/mlflow_01.png)
-![Architecture](./images/mlflow_02.png)
+![Architecture](./images/mlflow_03.png)

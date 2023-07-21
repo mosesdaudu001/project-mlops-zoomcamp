@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/2d1996ce4e7f4fccadf6d05ba4ebfa9f/artifacts
+end_time: 1689945546783
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 2d1996ce4e7f4fccadf6d05ba4ebfa9f
+run_name: angry-tern-101
+run_uuid: 2d1996ce4e7f4fccadf6d05ba4ebfa9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689944587472
+status: 3
+tags: []
+user_id: moses

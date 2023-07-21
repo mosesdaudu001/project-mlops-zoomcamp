@@ -1,0 +1,15 @@
+artifact_uri: /home/moses/Documents/project-mlops-zoomcamp/models/447277351373909123/91f18fb242a044f08ee384bf9dedbe25/artifacts
+end_time: 1689939607515
+entry_point_name: ''
+experiment_id: '447277351373909123'
+lifecycle_stage: active
+run_id: 91f18fb242a044f08ee384bf9dedbe25
+run_name: unruly-sponge-104
+run_uuid: 91f18fb242a044f08ee384bf9dedbe25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689939283159
+status: 3
+tags: []
+user_id: moses
