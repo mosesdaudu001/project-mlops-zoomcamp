@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 data/
 models/
+artifacts/
+mlartifacts/
+regression_dict.bin
