@@ -46,3 +46,5 @@ Mlflow - Experiment Training & Tracking
 ```
 ![Architecture](./images/mlflow_01.png)
 ![Architecture](./images/mlflow_03.png)
+
+Model deployed as an API through docker and AWS
